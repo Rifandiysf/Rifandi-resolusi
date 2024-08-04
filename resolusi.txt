@@ -1,7 +1,8 @@
-Rencana Project Kedepan
-- membuat website portfolio yang menarik
-- membuat POS app 
-- membuat website produktif
-- membuat website kasir
-- membuat website top up
-- membuat website generator
+rencana teknologi yang ingin dipelajari beserta project nya
+- belajar Javascript
+- belajar Node JS
+- belajar Tailwind
+- belajar React JS
+- belajar PHP
+- belajar Vue JS
+- belajar Typescript
